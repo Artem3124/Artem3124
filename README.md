@@ -1,4 +1,4 @@
-👋 Hello there! I'm currently a second-year Bachelor's student in Computer Science, deeply fascinated by the world of software development, clouds, and low-level programming. My journey began with a strong foundation in discrete mathematics, which I'm eager to apply to building a wide range of software applications.
+👋 Hello there! I'm currently a second-year Bachelor's student in Computer Science, deeply fascinated by the world of software development, clouds, and low-level programming. My journey began with a strong foundation in discrete mathematics which I'm eager to apply to building a wide range of software applications.
 
 🔍 Exploring the World of Software: I'm continuously exploring various aspects of software development, from high-level languages to low-level optimizations, seeking to deepen my understanding and expand my skill set.
 
@@ -12,4 +12,4 @@
 
 🌱 Continuous Learning: Every day, I strive to learn something new and deepen my understanding of software development principles, techniques, and tools. I believe in the importance of lifelong learning and embracing new challenges.
 
-📫 Get in Touch: If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email. Let's learn and grow together!
+📫 Get in Touch: If you have any questions, suggestions, or just want to connect, feel free to reach me out to via email.
