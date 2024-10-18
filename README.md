@@ -6,7 +6,7 @@
 
 💡 Areas of Strength: I have a solid grasp of discrete mathematics, providing me with a strong analytical foundation for problem-solving in software development.
 
-🚀 Areas for Growth: While I'm enthusiastic about learning and open to contributing to various projects, I recognize that there are areas where I'm looking to improve. Specifically, I'm focusing on enhancing my knowledge and proficiency in C#, JavaScript/TypeScript, CI/CD, Python, and C++.
+🚀 Areas for Growth: While I'm enthusiastic about learning and open to contributing to various projects, I recognize that there are areas where I'm looking to improve. Specifically, I'm focusing on enhancing my knowledge and proficiency in C#, JavaScript/TypeScript, CI/CD, Golang, and C++.
 
 🤝 Open to Collaboration: I'm eager to collaborate with others on projects, share knowledge, and contribute to the vibrant community of developers. Feel free to reach out if you'd like to collaborate or discuss exciting projects!
 
